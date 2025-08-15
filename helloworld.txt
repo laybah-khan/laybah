@@ -1,0 +1,1 @@
+hello world! this is my first time working on linux, VS code, git and github. I have started to learn web dev from the odin project. Super excited , but lets see where it takes me to.
